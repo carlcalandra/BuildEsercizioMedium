@@ -64,6 +64,10 @@ footer {
     flex-wrap: wrap;
 }
 
+footer a {
+    margin: .3rem 0;
+}
+
 /*id */
 
 #logo {
